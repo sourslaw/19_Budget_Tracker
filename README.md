@@ -16,7 +16,7 @@
 
 ### Installation
 - The project is uploaded to [GitHub](https://github.com/) at the following repository: [here](https://github.com/sourslaw/19_Budget_Tracker)
-<!-- - The project is deployed via [Heroku](https://www.heroku.com/) at the following link: [here](https://peaceful-river-57497.herokuapp.com/) -->
+- The project is deployed via [Heroku](https://www.heroku.com/) at the following link: [here](https://peaceful-river-57497.herokuapp.com/)
 
 ### License
 - Licensed under the [MIT](https://opensource.org/licenses/mit-license.php) license.
