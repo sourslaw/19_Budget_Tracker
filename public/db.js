@@ -22,8 +22,7 @@ function checkDatabase() {
   allObjs.onsuccess = function () {
     if (allObjs.result.length > 0) {
       fetch('/api/transaction/bulk', {
-        method: 'POST',
-        body: JSON.stringify(allObjs.result),
+        method: 'POST', body: JSON.stringify(allObjs.result),
         headers: {
           Accept: 'application/json, text/plain, */*',
           'Content-Type': 'application/json',
