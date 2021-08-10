@@ -41,6 +41,7 @@ function checkDatabase() {
         });
     }
   };
+}
 // checks if application is connected to wifis
 request.onsuccess = function (e) {
   db = e.target.result;
